@@ -1,4 +1,4 @@
-/* SAMP Texture Addresses */
+/* SAMP Texture Index */
 #define WOOD_TEXTURE_A
 #define WOOD_TEXTURE_B
 
